@@ -2,3 +2,4 @@
 "Hello Lena"
 "Hello Yura"
 "Hello Pasha"
+"Hello Sveta"
